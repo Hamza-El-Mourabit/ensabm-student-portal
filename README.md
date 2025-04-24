@@ -66,6 +66,8 @@ npm start
 ## Contributeurs
 
 - [Hamza-El-Mourabit](https://github.com/Hamza-El-Mourabit)
+- [Galdro-0](https://github.com/Galdro-0)
+
 
 ## Licence
 
